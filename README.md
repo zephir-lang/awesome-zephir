@@ -11,7 +11,7 @@ Inspired by [awesome-go][awesome-go].
 Please take a quick gander at the [contribution guidelines](./CONTRIBUTING.md) first.
 Thanks to all [contributors](https://github.com/phalcon/awesome-zephir/graphs/contributors); you rock!
 
-Join us on [Discord](https://discord.gg/PNFsSsr) to chat with other awesome-zephir maintainers!
+Join us on [Discord](https://discordapp.com/invite/PNFsSsr) to chat with other `awesome-zephir` maintainers!
 
 ### Contents
 
