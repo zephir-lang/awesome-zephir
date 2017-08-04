@@ -6,7 +6,14 @@
 A curated list of awesome [Zephir][zephir-gh] libraries and resources.
 Inspired by [awesome-go][awesome-go].
 
-## Contents
+### Contributing
+
+Please take a quick gander at the [contribution guidelines](./CONTRIBUTING.md) first.
+Thanks to all [contributors](https://github.com/phalcon/awesome-zephir/graphs/contributors); you rock!
+
+Join us on [Discord](https://discord.gg/PNFsSsr) to chat with other awesome-zephir maintainers!
+
+### Contents
 
 - [Awesome Zephir](#awesome-zephir)
     - [Documentation](#documentation)
