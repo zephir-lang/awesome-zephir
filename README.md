@@ -6,18 +6,20 @@
 A curated list of awesome [Zephir][zephir-gh] libraries and resources.
 Inspired by [awesome-go][awesome-go].
 
-### Contents
+## Contents
 
 - [Awesome Zephir](#awesome-zephir)
     - [Documentation](#documentation)
     - [IDE](#ide)
     - [Integration](#integration)
     - [Internals](#internals)
+- [Resources](#resources)
+    - [Websites](#websites)
 
 ## Documentation
 
-- [zephir-docs](https://github.com/phalcon/zephir-docs) - Official Tour
-- [zephir-website](https://github.com/phalcon/zephir-website) - Web site source
+- [zephir-docs](https://github.com/phalcon/zephir-docs) - Official Tour from Zephir Team
+
 
 ## IDE / Editors
 
@@ -37,6 +39,15 @@ Inspired by [awesome-go][awesome-go].
 ## Internals
 
 - [php-zephir-parser](https://github.com/phalcon/php-zephir-parser) - The Zephir Parser delivered as a C extension for the PHP language
+
+# Resources
+
+*Where to discover new Zephir resources.*
+
+## Websites
+
+- [Main web site](https://zephir-lang.com) - Official Zephir Web site
+- [Web site source](https://github.com/phalcon/zephir-website) - Web site source code
 
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [awesome-link]: https://github.com/sindresorhus/awesome
